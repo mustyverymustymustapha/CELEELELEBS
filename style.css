@@ -1,0 +1,31 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+#generate-btn {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#generate-btn:hover {
+  background-color: #3e8e41;
+}
+
+#celeb-name {
+  font-size: 24px;
+  font-weight: bold;
+  color: #666;
+  margin-top: 20px;
+}
